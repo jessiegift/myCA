@@ -1,5 +1,5 @@
 # myCA
-< html>
+< !Doctype html>
 
 <head>
 <title> Welcome</title>
